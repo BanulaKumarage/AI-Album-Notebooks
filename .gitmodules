@@ -13,3 +13,12 @@
 [submodule "facenet_pytorch"]
 	path = facenet_pytorch
 	url = https://github.com/timesler/facenet-pytorch.git
+[submodule "deepface"]
+	path = deepface
+	url = https://github.com/serengil/deepface.git
+[submodule "mtcnn"]
+	path = mtcnn
+	url = https://github.com/ipazc/mtcnn.git
+[submodule "retinaface"]
+	path = retinaface
+	url = https://github.com/serengil/retinaface.git
